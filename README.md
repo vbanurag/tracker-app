@@ -2,7 +2,8 @@
 
 # Setup
 - clone the repo && cd to project repo and npm install or yarn install
-- create tracker-app db on mmongodb
+- create tracker-app db on mongodb
+- update DB_URL in .env file
 
 ## To Run
 - ``` npm start ```
